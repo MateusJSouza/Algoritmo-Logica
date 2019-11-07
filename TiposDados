@@ -1,0 +1,6 @@
+O algoritmo manipule informações para que o processador calcule e crie uma saída dessas informações.
+Essas informações são dados, esses dados tem seus tipos. Na computação, esses dados tem os seus tipos definidos, pois não é possível manipular todos os tipos de dados que existem.
+Para esses casos, nós programadores fazemos conversões de tipos. No pseudoCódigo utilizamos os tipos.
+- Caractere: define variáveis do tipo string, ou seja, uma cadeia de caracteres.
+- Lógico: define variáveis do tipo booleano, verdadeiro ou falso.
+- Numérico: se divide em real (com casas decimais), inteiros (sem casas decimais).
