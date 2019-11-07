@@ -1,6 +1,20 @@
-O que é um algoritmo?
+Regras de um algoritmo:
 
 - Deve ter um fim;
 - Não pode ter dupla interpretação;
 - Deve permitir gerar informações de saída;
 - Deve ser bem definido.
+
+___________________________________________________________________________________
+
+O que fazer para se resolver um problema?
+
+- Definição do problema.
+- Verificar quais são as formas de resolvê-los.
+- Quais as opções?
+- Definir e utilizar uma das formas de resolução do problema.
+- Analisar se o problema for resolvido.
+- Testar.
+- Se a opção escolhida não tiver êxito, repetir todos os passos anteriores.
+
+- Algoritmo consiste nos passos necessários para se chegar na solução do problema.
