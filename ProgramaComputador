@@ -1,0 +1,14 @@
+O que é um programa de computador?
+
+Um computador é formado pelos seguintes itens:
+
+- UCP: Unidade Central de Processamento (processador);
+- Memória;
+- Dipositivos de entrada e saída: teclado, mouse, impressora.
+
+O processador contém instruções, que podem ser operações matemática, interações com dispositovos de entrada e saída. 
+E as suas instruções são executadas sequencialmente por cada núcleo da UCP.
+O conjunto de instruções que vão ser executados sequencialmente no computador é chamado de programa de computador.
+Essa sequência de passos permite que um problema possa ser resolvido de maneira automática e repetitiva. O computador somente entende um tipo de linguagem, que é o de máquina (que é composto por números).
+Atualmente, o sistema binário (01) é o padrão de indústria que é utilizado. As linguagens de programação são definidas em dois tipos, baixo nível que são as linguagens muito próximas da linguagem de máquina.
+E as de alto nível, que são mais distantes da linguagem de máquina, exemplos: java, c++, php, python e etc.
