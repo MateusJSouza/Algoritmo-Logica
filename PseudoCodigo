@@ -1,0 +1,21 @@
+Forma mais utilizada de representação de algoritmos:
+
+- É o mais utilizado quando vamos fazer essas representações.
+- Um pseudocódigo é uma técnica textual de representação de um algoritmo. É uma forma intermediária entre a linguagem natural e uma linguagem de programação de alto nível.
+- Utiliza uma linguagem simples sendo uma forma generic de se desenvolver.
+
+Estrutura:
+
+algoritmo "Nome"
+var - variável
+inicio - sinaliza o início do nosso bloco de código.
+fimalgoritmo - sinaliza o fim do nosso bloco de código.
+
+Regras do pseudocódigo no seu processo de construção:
+
+- Todo algoritmo deve ter um nome.
+- O nome deve ser a primeira coisa definida em um algoritmo.
+- Em todo algoritmo deve ter definido o seu início e o seu fim.
+- A primeira palavra deve ser em maiúsculo.
+- Usar o nome que faça sentido para o propósito do algoritmo.
+- Nomes compostos igual a MediaAluno deve vir juntos, mas o primeiro caractere da segunda palavra também deve ser em maiúsculo ou camelCase.
